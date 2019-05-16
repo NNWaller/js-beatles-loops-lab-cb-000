@@ -16,3 +16,12 @@ function johnLennonFacts (facts){
   } 
   return facts;
 }
+
+
+var newArray = [];
+function iLoveTheBeatles(number){
+  
+}
+
+
+}
