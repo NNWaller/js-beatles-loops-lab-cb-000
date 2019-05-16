@@ -25,7 +25,7 @@ function iLoveTheBeatles(number){
     newArray.push ("I love the Beatles!");
   }while (number < 15){
     function incrementNumber(){
-      number = number
+      number = number+ i
     }
   }
   
