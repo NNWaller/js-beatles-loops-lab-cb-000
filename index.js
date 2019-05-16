@@ -18,20 +18,20 @@ function johnLennonFacts (facts){
 }
 
 
-var newArray = [];
-var i = 0; 
-function iLoveTheBeatles(number){
-  do{
-    newArray.push ("I love the Beatles!");
-  }while (number < 15){
-    function incrementNumber(){
-      number = number+ i
-    }
-  }
+//var newArray = [];
+//var i = 0; 
+//function iLoveTheBeatles(number){
+ // do{
+   // newArray.push ("I love the Beatles!");
+ // }while (number < 15){
+//    function incrementNumber(){
+//      number = number+ i
+//    }
+//  }
   
-  }
+//  }
   
-}
+//}
 
 
 }
