@@ -23,7 +23,7 @@ var i = 0;
 function iLoveTheBeatles(number){
   do{
     newArray.push ("I love the Beatles!");
-  }while
+  }while (number < 15)
   
   }
   
